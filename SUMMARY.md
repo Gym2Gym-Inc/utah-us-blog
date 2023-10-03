@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Salt Lake City, UT - U.S.](README.md)
+* [How to make an effective Gym2Gym listing](how-to-make-an-effective-gym2gym-listing.md)
 * [Three Tips for Finding the Perfect Private Trainer for You](three-tips-for-finding-the-perfect-private-trainer-for-you.md)
 * [Investing in a Home Gym: Revealing the pros and cons](investing-in-a-home-gym-revealing-the-pros-and-cons.md)
 * [Working Out at Home: Better or worse than commercial Gyms?](working-out-at-home-better-or-worse-than-commercial-gyms.md)
