@@ -1,7 +1,21 @@
 ---
 description: How Gym2Gym is moving mountains out in Salt Lake City
 cover: .gitbook/assets/SLC_Banner Ad.png
-coverY: 0
+coverY: -150.59199999999998
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Salt Lake City, UT - U.S.
